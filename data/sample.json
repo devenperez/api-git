@@ -13,14 +13,42 @@
         {
             "number": 1,
             "name": "Some Problem Name",
-            "difficulty": "easy",
+            "difficulty": "Easy",
             "lang": "py",
             "location": "1-some-easy-problem/",
             "scores": 
 			{
 				"time": "0.0 ms",
 				"timePercentile": "0%",
-				"memory": "0.0 ms",
+				"memory": "0.0 MB",
+				"memoryPercentile": "0%"
+			}   
+        },
+		{
+            "number": 2,
+            "name": "Some Other Problem Name",
+            "difficulty": "Medium",
+            "lang": "py",
+            "location": "1-some-easy-problem/",
+            "scores": 
+			{
+				"time": "0.0 ms",
+				"timePercentile": "0%",
+				"memory": "0.0 MB",
+				"memoryPercentile": "0%"
+			}   
+        },
+		{
+            "number": 3,
+            "name": "Some Random Problem Name",
+            "difficulty": "Hard",
+            "lang": "py",
+            "location": "1-some-easy-problem/",
+            "scores": 
+			{
+				"time": "0.0 ms",
+				"timePercentile": "0%",
+				"memory": "0.0 MB",
 				"memoryPercentile": "0%"
 			}   
         }
