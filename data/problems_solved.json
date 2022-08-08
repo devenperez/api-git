@@ -1,0 +1,260 @@
+{
+    "timeGathered": 1659975254,
+    "solvedProblems": {
+        "solvedTotals": {
+            "all": 19,
+            "easy": 9,
+            "medium": 9,
+            "hard": 1
+        },
+        "problems": [
+            {
+                "number": "20",
+                "name": "Valid Parentheses",
+                "difficulty": "Easy",
+                "lang": "py",
+                "location": "20-valid-parentheses/20-valid-parentheses.py",
+                "scores": {
+                    "time": 20.0,
+                    "timePercentile": 83.79,
+                    "memory": 13.5,
+                    "memoryPercentile": 81.46
+                }
+            },
+            {
+                "number": "56",
+                "name": "Merge Intervals",
+                "difficulty": "Medium",
+                "lang": "py",
+                "location": "56-merge-intervals/56-merge-intervals.py",
+                "scores": {
+                    "time": 161.0,
+                    "timePercentile": 61.12,
+                    "memory": 18.0,
+                    "memoryPercentile": 96.55
+                }
+            },
+            {
+                "number": "58",
+                "name": "Length Of Last Word",
+                "difficulty": "Easy",
+                "lang": "py",
+                "location": "58-length-of-last-word/58-length-of-last-word.py",
+                "scores": {
+                    "time": 22.0,
+                    "timePercentile": 70.89,
+                    "memory": 13.5,
+                    "memoryPercentile": 75.98
+                }
+            },
+            {
+                "number": "12",
+                "name": "Integer To Roman",
+                "difficulty": "Medium",
+                "lang": "py",
+                "location": "12-integer-to-roman/12-integer-to-roman.py",
+                "scores": {
+                    "time": 42.0,
+                    "timePercentile": 85.09,
+                    "memory": 13.5,
+                    "memoryPercentile": 40.2
+                }
+            },
+            {
+                "number": "17",
+                "name": "Letter Combinations Of A Phone Number",
+                "difficulty": "Medium",
+                "lang": "py",
+                "location": "17-letter-combinations-of-a-phone-number/17-letter-combinations-of-a-phone-number.py",
+                "scores": {
+                    "time": 25.0,
+                    "timePercentile": 58.17,
+                    "memory": 13.4,
+                    "memoryPercentile": 66.3
+                }
+            },
+            {
+                "number": "1",
+                "name": "Two Sum",
+                "difficulty": "Easy",
+                "lang": "py",
+                "location": "1-two-sum/1-two-sum.py",
+                "scores": {
+                    "time": 2601.0,
+                    "timePercentile": 35.95,
+                    "memory": 14.2,
+                    "memoryPercentile": 68.06
+                }
+            },
+            {
+                "number": "8",
+                "name": "String To Integer Atoi",
+                "difficulty": "Medium",
+                "lang": "py",
+                "location": "8-string-to-integer-atoi/8-string-to-integer-atoi.py",
+                "scores": {
+                    "time": 27.0,
+                    "timePercentile": 78.59,
+                    "memory": 13.7,
+                    "memoryPercentile": 23.24
+                }
+            },
+            {
+                "number": "66",
+                "name": "Plus One",
+                "difficulty": "Easy",
+                "lang": "py",
+                "location": "66-plus-one/66-plus-one.py",
+                "scores": {
+                    "time": 41.0,
+                    "timePercentile": 12.84,
+                    "memory": 13.4,
+                    "memoryPercentile": 69.71
+                }
+            },
+            {
+                "number": "13",
+                "name": "Roman To Integer",
+                "difficulty": "Easy",
+                "lang": "py",
+                "location": "13-roman-to-integer/13-roman-to-integer.py",
+                "scores": {
+                    "time": 80.0,
+                    "timePercentile": 21.17,
+                    "memory": 13.4,
+                    "memoryPercentile": 57.48
+                }
+            },
+            {
+                "number": "9",
+                "name": "Palindrome Number",
+                "difficulty": "Easy",
+                "lang": "py",
+                "location": "9-palindrome-number/9-palindrome-number.py",
+                "scores": {
+                    "time": 93.0,
+                    "timePercentile": 46.3,
+                    "memory": 13.5,
+                    "memoryPercentile": 11.6
+                }
+            },
+            {
+                "number": "38",
+                "name": "Count And Say",
+                "difficulty": "Medium",
+                "lang": "py",
+                "location": "38-count-and-say/38-count-and-say.py",
+                "scores": {
+                    "time": 57.0,
+                    "timePercentile": 34.64,
+                    "memory": 13.7,
+                    "memoryPercentile": 15.83
+                }
+            },
+            {
+                "number": "141",
+                "name": "Linked List Cycle",
+                "difficulty": "Easy",
+                "lang": "py",
+                "location": "141-linked-list-cycle/141-linked-list-cycle.py",
+                "scores": {
+                    "time": 0.0,
+                    "timePercentile": 0.0,
+                    "memory": 0.0,
+                    "memoryPercentile": 0.0
+                }
+            },
+            {
+                "number": "19",
+                "name": "Remove Nth Node From End Of List",
+                "difficulty": "Medium",
+                "lang": "py",
+                "location": "19-remove-nth-node-from-end-of-list/19-remove-nth-node-from-end-of-list.py",
+                "scores": {
+                    "time": 0.0,
+                    "timePercentile": 0.0,
+                    "memory": 0.0,
+                    "memoryPercentile": 0.0
+                }
+            },
+            {
+                "number": "2",
+                "name": "Add Two Numbers",
+                "difficulty": "Medium",
+                "lang": "py",
+                "location": "2-add-two-numbers/2-add-two-numbers.py",
+                "scores": {
+                    "time": 0.0,
+                    "timePercentile": 0.0,
+                    "memory": 0.0,
+                    "memoryPercentile": 0.0
+                }
+            },
+            {
+                "number": "206",
+                "name": "Reverse Linked List",
+                "difficulty": "Easy",
+                "lang": "py",
+                "location": "206-reverse-linked-list/206-reverse-linked-list.py",
+                "scores": {
+                    "time": 0.0,
+                    "timePercentile": 0.0,
+                    "memory": 0.0,
+                    "memoryPercentile": 0.0
+                }
+            },
+            {
+                "number": "28",
+                "name": "Implement Strstr",
+                "difficulty": "Easy",
+                "lang": "py",
+                "location": "28-implement-strstr/28-implement-strstr.py",
+                "scores": {
+                    "time": 0.0,
+                    "timePercentile": 0.0,
+                    "memory": 0.0,
+                    "memoryPercentile": 0.0
+                }
+            },
+            {
+                "number": "3",
+                "name": "Longest Substring Without Repeating Characters",
+                "difficulty": "Medium",
+                "lang": "py",
+                "location": "3-longest-substring-without-repeating-characters/3-longest-substring-without-repeating-characters.py",
+                "scores": {
+                    "time": 0.0,
+                    "timePercentile": 0.0,
+                    "memory": 0.0,
+                    "memoryPercentile": 0.0
+                }
+            },
+            {
+                "number": "36",
+                "name": "Valid Sudoku",
+                "difficulty": "Medium",
+                "lang": "py",
+                "location": "36-valid-sudoku/36-valid-sudoku.py",
+                "scores": {
+                    "time": 0.0,
+                    "timePercentile": 0.0,
+                    "memory": 0.0,
+                    "memoryPercentile": 0.0
+                }
+            },
+            {
+                "number": "4",
+                "name": "Median Of Two Sorted Arrays",
+                "difficulty": "Hard",
+                "lang": "py",
+                "location": "4-median-of-two-sorted-arrays/4-median-of-two-sorted-arrays.py",
+                "scores": {
+                    "time": 0.0,
+                    "timePercentile": 0.0,
+                    "memory": 0.0,
+                    "memoryPercentile": 0.0
+                }
+            }
+        ]
+    }
+}
