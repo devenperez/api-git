@@ -1,5 +1,5 @@
 {
-    "timeGathered": 1660087365384,
+    "timeGathered": 1660536179887,
     "solvedProblems": {
         "solvedTotals": {
             "all": 20,
@@ -8,6 +8,19 @@
             "hard": 1
         },
         "problems": [
+            {
+                "number": "26",
+                "name": "Remove Duplicates From Sorted Array",
+                "difficulty": "",
+                "lang": "py",
+                "location": "26-remove-duplicates-from-sorted-array/26-remove-duplicates-from-sorted-array.py",
+                "scores": {
+                    "time": 71.0,
+                    "timePercentile": 88.49,
+                    "memory": 14.6,
+                    "memoryPercentile": 77.98
+                }
+            },
             {
                 "number": "20",
                 "name": "Valid Parentheses",
