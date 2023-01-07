@@ -1,285 +1,582 @@
 {
-    "timeGathered": 1660537359767,
+    "timeGathered": 1673105298545,
     "solvedProblems": {
         "solvedTotals": {
-            "all": 20,
-            "easy": 10,
-            "medium": 9,
+            "all": 38,
+            "easy": 19,
+            "medium": 18,
             "hard": 1
         },
         "problems": [
             {
+                "number": "290",
+                "name": "Word Pattern",
+                "difficulty": "Easy",
+                "location": "290-word-pattern/290-word-pattern.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 11.0,
+                        "timePercentile": 97.09,
+                        "memory": 13.4,
+                        "memoryPercentile": 91.11
+                    }
+                ]
+            },
+            {
+                "number": "7",
+                "name": "Reverse Integer",
+                "difficulty": "Medium",
+                "location": "7-reverse-integer/7-reverse-integer.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 22.0,
+                        "timePercentile": 83.27,
+                        "memory": 13.2,
+                        "memoryPercentile": 88.06
+                    }
+                ]
+            },
+            {
                 "number": "26",
                 "name": "Remove Duplicates From Sorted Array",
-                "difficulty": "",
-                "lang": "py",
+                "difficulty": "Easy",
                 "location": "26-remove-duplicates-from-sorted-array/26-remove-duplicates-from-sorted-array.py",
-                "scores": {
-                    "time": 71.0,
-                    "timePercentile": 88.49,
-                    "memory": 14.6,
-                    "memoryPercentile": 77.98
-                }
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 71.0,
+                        "timePercentile": 88.49,
+                        "memory": 14.6,
+                        "memoryPercentile": 77.98
+                    }
+                ]
             },
             {
                 "number": "20",
                 "name": "Valid Parentheses",
                 "difficulty": "Easy",
-                "lang": "py",
                 "location": "20-valid-parentheses/20-valid-parentheses.py",
-                "scores": {
-                    "time": 20.0,
-                    "timePercentile": 83.79,
-                    "memory": 13.5,
-                    "memoryPercentile": 81.46
-                }
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 20.0,
+                        "timePercentile": 83.79,
+                        "memory": 13.5,
+                        "memoryPercentile": 81.46
+                    }
+                ]
+            },
+            {
+                "number": "134",
+                "name": "Gas Station",
+                "difficulty": "Medium",
+                "location": "134-gas-station/134-gas-station.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 722.0,
+                        "timePercentile": 72.46,
+                        "memory": 19.0,
+                        "memoryPercentile": 90.27
+                    }
+                ]
             },
             {
                 "number": "56",
                 "name": "Merge Intervals",
                 "difficulty": "Medium",
-                "lang": "py",
                 "location": "56-merge-intervals/56-merge-intervals.py",
-                "scores": {
-                    "time": 161.0,
-                    "timePercentile": 61.12,
-                    "memory": 18.0,
-                    "memoryPercentile": 96.55
-                }
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 161.0,
+                        "timePercentile": 61.12,
+                        "memory": 18.0,
+                        "memoryPercentile": 96.55
+                    }
+                ]
+            },
+            {
+                "number": "22",
+                "name": "Generate Parentheses",
+                "difficulty": "Medium",
+                "location": "22-generate-parentheses/22-generate-parentheses.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 21.0,
+                        "timePercentile": 89.04,
+                        "memory": 13.7,
+                        "memoryPercentile": 67.89
+                    }
+                ]
             },
             {
                 "number": "58",
                 "name": "Length Of Last Word",
                 "difficulty": "Easy",
-                "lang": "py",
                 "location": "58-length-of-last-word/58-length-of-last-word.py",
-                "scores": {
-                    "time": 22.0,
-                    "timePercentile": 70.89,
-                    "memory": 13.5,
-                    "memoryPercentile": 75.98
-                }
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 22.0,
+                        "timePercentile": 70.89,
+                        "memory": 13.5,
+                        "memoryPercentile": 75.98
+                    }
+                ]
+            },
+            {
+                "number": "34",
+                "name": "Find First And Last Position Of Element In Sorted Array",
+                "difficulty": "Medium",
+                "location": "34-find-first-and-last-position-of-element-in-sorted-array/34-find-first-and-last-position-of-element-in-sorted-array.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 70.0,
+                        "timePercentile": 71.3,
+                        "memory": 14.6,
+                        "memoryPercentile": 65.8
+                    }
+                ]
+            },
+            {
+                "number": "14",
+                "name": "Longest Common Prefix",
+                "difficulty": "Easy",
+                "location": "14-longest-common-prefix/14-longest-common-prefix.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 40.0,
+                        "timePercentile": 45.85,
+                        "memory": 13.6,
+                        "memoryPercentile": 85.54
+                    }
+                ]
+            },
+            {
+                "number": "1920",
+                "name": "Build Array From Permutation",
+                "difficulty": "Easy",
+                "location": "1920-build-array-from-permutation/1920-build-array-from-permutation.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 87.0,
+                        "timePercentile": 96.31,
+                        "memory": 13.8,
+                        "memoryPercentile": 32.79
+                    }
+                ]
+            },
+            {
+                "number": "1302",
+                "name": "Deepest Leaves Sum",
+                "difficulty": "Medium",
+                "location": "1302-deepest-leaves-sum/1302-deepest-leaves-sum.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 406.0,
+                        "timePercentile": 31.53,
+                        "memory": 20.7,
+                        "memoryPercentile": 96.88
+                    }
+                ]
+            },
+            {
+                "number": "6",
+                "name": "Zigzag Conversion",
+                "difficulty": "Medium",
+                "location": "6-zigzag-conversion/6-zigzag-conversion.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 87.0,
+                        "timePercentile": 69.14,
+                        "memory": 13.7,
+                        "memoryPercentile": 58.56
+                    }
+                ]
             },
             {
                 "number": "12",
                 "name": "Integer To Roman",
                 "difficulty": "Medium",
-                "lang": "py",
                 "location": "12-integer-to-roman/12-integer-to-roman.py",
-                "scores": {
-                    "time": 42.0,
-                    "timePercentile": 85.09,
-                    "memory": 13.5,
-                    "memoryPercentile": 40.2
-                }
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 42.0,
+                        "timePercentile": 85.09,
+                        "memory": 13.5,
+                        "memoryPercentile": 40.2
+                    }
+                ]
             },
             {
                 "number": "17",
                 "name": "Letter Combinations Of A Phone Number",
                 "difficulty": "Medium",
-                "lang": "py",
                 "location": "17-letter-combinations-of-a-phone-number/17-letter-combinations-of-a-phone-number.py",
-                "scores": {
-                    "time": 25.0,
-                    "timePercentile": 58.17,
-                    "memory": 13.4,
-                    "memoryPercentile": 66.3
-                }
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 25.0,
+                        "timePercentile": 58.17,
+                        "memory": 13.4,
+                        "memoryPercentile": 66.3
+                    }
+                ]
             },
             {
                 "number": "1",
                 "name": "Two Sum",
                 "difficulty": "Easy",
-                "lang": "py",
                 "location": "1-two-sum/1-two-sum.py",
-                "scores": {
-                    "time": 2601.0,
-                    "timePercentile": 35.95,
-                    "memory": 14.2,
-                    "memoryPercentile": 68.06
-                }
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 2601.0,
+                        "timePercentile": 35.95,
+                        "memory": 14.2,
+                        "memoryPercentile": 68.06
+                    }
+                ]
             },
             {
                 "number": "8",
                 "name": "String To Integer Atoi",
                 "difficulty": "Medium",
-                "lang": "py",
                 "location": "8-string-to-integer-atoi/8-string-to-integer-atoi.py",
-                "scores": {
-                    "time": 27.0,
-                    "timePercentile": 78.59,
-                    "memory": 13.7,
-                    "memoryPercentile": 23.24
-                }
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 27.0,
+                        "timePercentile": 78.59,
+                        "memory": 13.7,
+                        "memoryPercentile": 23.24
+                    }
+                ]
             },
             {
                 "number": "21",
                 "name": "Merge Two Sorted Lists",
                 "difficulty": "Easy",
-                "lang": "py",
                 "location": "21-merge-two-sorted-lists/21-merge-two-sorted-lists.py",
-                "scores": {
-                    "time": 32.0,
-                    "timePercentile": 66.96,
-                    "memory": 13.6,
-                    "memoryPercentile": 32.27
-                }
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 32.0,
+                        "timePercentile": 66.96,
+                        "memory": 13.6,
+                        "memoryPercentile": 32.27
+                    }
+                ]
+            },
+            {
+                "number": "1476",
+                "name": "Subrectangle Queries",
+                "difficulty": "Medium",
+                "location": "1476-subrectangle-queries/1476-subrectangle-queries.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 349.0,
+                        "timePercentile": 25.27,
+                        "memory": 15.2,
+                        "memoryPercentile": 71.43
+                    }
+                ]
+            },
+            {
+                "number": "2469",
+                "name": "Convert The Temperature",
+                "difficulty": "Easy",
+                "location": "2469-convert-the-temperature/2469-convert-the-temperature.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 54.0,
+                        "timePercentile": 43.35,
+                        "memory": 13.9,
+                        "memoryPercentile": 49.78
+                    }
+                ]
+            },
+            {
+                "number": "2244",
+                "name": "Minimum Rounds To Complete All Tasks",
+                "difficulty": "Medium",
+                "location": "2244-minimum-rounds-to-complete-all-tasks/2244-minimum-rounds-to-complete-all-tasks.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 2311.0,
+                        "timePercentile": 27.08,
+                        "memory": 26.6,
+                        "memoryPercentile": 64.58
+                    }
+                ]
             },
             {
                 "number": "66",
                 "name": "Plus One",
                 "difficulty": "Easy",
-                "lang": "py",
                 "location": "66-plus-one/66-plus-one.py",
-                "scores": {
-                    "time": 41.0,
-                    "timePercentile": 12.84,
-                    "memory": 13.4,
-                    "memoryPercentile": 69.71
-                }
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 41.0,
+                        "timePercentile": 12.84,
+                        "memory": 13.4,
+                        "memoryPercentile": 69.71
+                    }
+                ]
+            },
+            {
+                "number": "520",
+                "name": "Detect Capital",
+                "difficulty": "Easy",
+                "location": "520-detect-capital/520-detect-capital.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 38.0,
+                        "timePercentile": 17.1,
+                        "memory": 13.5,
+                        "memoryPercentile": 63.6
+                    }
+                ]
             },
             {
                 "number": "13",
                 "name": "Roman To Integer",
                 "difficulty": "Easy",
-                "lang": "py",
                 "location": "13-roman-to-integer/13-roman-to-integer.py",
-                "scores": {
-                    "time": 80.0,
-                    "timePercentile": 21.17,
-                    "memory": 13.4,
-                    "memoryPercentile": 57.48
-                }
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 80.0,
+                        "timePercentile": 21.17,
+                        "memory": 13.4,
+                        "memoryPercentile": 57.48
+                    }
+                ]
+            },
+            {
+                "number": "1480",
+                "name": "Running Sum Of 1D Array",
+                "difficulty": "Easy",
+                "location": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 57.0,
+                        "timePercentile": 16.14,
+                        "memory": 13.6,
+                        "memoryPercentile": 61.59
+                    }
+                ]
+            },
+            {
+                "number": "2235",
+                "name": "Add Two Integers",
+                "difficulty": "Easy",
+                "location": "2235-add-two-integers/2235-add-two-integers.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 43.0,
+                        "timePercentile": 5.68,
+                        "memory": 13.3,
+                        "memoryPercentile": 59.62
+                    }
+                ]
             },
             {
                 "number": "9",
                 "name": "Palindrome Number",
                 "difficulty": "Easy",
-                "lang": "py",
                 "location": "9-palindrome-number/9-palindrome-number.py",
-                "scores": {
-                    "time": 93.0,
-                    "timePercentile": 46.3,
-                    "memory": 13.5,
-                    "memoryPercentile": 11.6
-                }
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 93.0,
+                        "timePercentile": 46.3,
+                        "memory": 13.5,
+                        "memoryPercentile": 11.6
+                    }
+                ]
+            },
+            {
+                "number": "1689",
+                "name": "Partitioning Into Minimum Number Of Deci Binary Numbers",
+                "difficulty": "Medium",
+                "location": "1689-partitioning-into-minimum-number-of-deci-binary-numbers/1689-partitioning-into-minimum-number-of-deci-binary-numbers.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 670.0,
+                        "timePercentile": 16.55,
+                        "memory": 14.6,
+                        "memoryPercentile": 35.56
+                    }
+                ]
+            },
+            {
+                "number": "1929",
+                "name": "Concatenation Of Array",
+                "difficulty": "Easy",
+                "location": "1929-concatenation-of-array/1929-concatenation-of-array.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 185.0,
+                        "timePercentile": 5.25,
+                        "memory": 13.7,
+                        "memoryPercentile": 46.34
+                    }
+                ]
             },
             {
                 "number": "38",
                 "name": "Count And Say",
                 "difficulty": "Medium",
-                "lang": "py",
                 "location": "38-count-and-say/38-count-and-say.py",
-                "scores": {
-                    "time": 57.0,
-                    "timePercentile": 34.64,
-                    "memory": 13.7,
-                    "memoryPercentile": 15.83
-                }
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 57.0,
+                        "timePercentile": 34.64,
+                        "memory": 13.7,
+                        "memoryPercentile": 15.83
+                    }
+                ]
             },
             {
                 "number": "141",
                 "name": "Linked List Cycle",
                 "difficulty": "Easy",
-                "lang": "py",
                 "location": "141-linked-list-cycle/141-linked-list-cycle.py",
-                "scores": {
-                    "time": 0.0,
-                    "timePercentile": 0.0,
-                    "memory": 0.0,
-                    "memoryPercentile": 0.0
-                }
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 0.0,
+                        "timePercentile": 0.0,
+                        "memory": 0.0,
+                        "memoryPercentile": 0.0
+                    }
+                ]
             },
             {
                 "number": "19",
                 "name": "Remove Nth Node From End Of List",
                 "difficulty": "Medium",
-                "lang": "py",
                 "location": "19-remove-nth-node-from-end-of-list/19-remove-nth-node-from-end-of-list.py",
-                "scores": {
-                    "time": 0.0,
-                    "timePercentile": 0.0,
-                    "memory": 0.0,
-                    "memoryPercentile": 0.0
-                }
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 0.0,
+                        "timePercentile": 0.0,
+                        "memory": 0.0,
+                        "memoryPercentile": 0.0
+                    }
+                ]
             },
             {
                 "number": "2",
                 "name": "Add Two Numbers",
                 "difficulty": "Medium",
-                "lang": "py",
                 "location": "2-add-two-numbers/2-add-two-numbers.py",
-                "scores": {
-                    "time": 0.0,
-                    "timePercentile": 0.0,
-                    "memory": 0.0,
-                    "memoryPercentile": 0.0
-                }
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 0.0,
+                        "timePercentile": 0.0,
+                        "memory": 0.0,
+                        "memoryPercentile": 0.0
+                    }
+                ]
             },
             {
                 "number": "206",
                 "name": "Reverse Linked List",
                 "difficulty": "Easy",
-                "lang": "py",
                 "location": "206-reverse-linked-list/206-reverse-linked-list.py",
-                "scores": {
-                    "time": 0.0,
-                    "timePercentile": 0.0,
-                    "memory": 0.0,
-                    "memoryPercentile": 0.0
-                }
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 0.0,
+                        "timePercentile": 0.0,
+                        "memory": 0.0,
+                        "memoryPercentile": 0.0
+                    }
+                ]
             },
             {
                 "number": "28",
                 "name": "Implement Strstr",
                 "difficulty": "Easy",
-                "lang": "py",
                 "location": "28-implement-strstr/28-implement-strstr.py",
-                "scores": {
-                    "time": 0.0,
-                    "timePercentile": 0.0,
-                    "memory": 0.0,
-                    "memoryPercentile": 0.0
-                }
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 0.0,
+                        "timePercentile": 0.0,
+                        "memory": 0.0,
+                        "memoryPercentile": 0.0
+                    }
+                ]
             },
             {
                 "number": "3",
                 "name": "Longest Substring Without Repeating Characters",
                 "difficulty": "Medium",
-                "lang": "py",
                 "location": "3-longest-substring-without-repeating-characters/3-longest-substring-without-repeating-characters.py",
-                "scores": {
-                    "time": 0.0,
-                    "timePercentile": 0.0,
-                    "memory": 0.0,
-                    "memoryPercentile": 0.0
-                }
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 0.0,
+                        "timePercentile": 0.0,
+                        "memory": 0.0,
+                        "memoryPercentile": 0.0
+                    }
+                ]
             },
             {
                 "number": "36",
                 "name": "Valid Sudoku",
                 "difficulty": "Medium",
-                "lang": "py",
                 "location": "36-valid-sudoku/36-valid-sudoku.py",
-                "scores": {
-                    "time": 0.0,
-                    "timePercentile": 0.0,
-                    "memory": 0.0,
-                    "memoryPercentile": 0.0
-                }
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 0.0,
+                        "timePercentile": 0.0,
+                        "memory": 0.0,
+                        "memoryPercentile": 0.0
+                    }
+                ]
             },
             {
                 "number": "4",
                 "name": "Median Of Two Sorted Arrays",
                 "difficulty": "Hard",
-                "lang": "py",
                 "location": "4-median-of-two-sorted-arrays/4-median-of-two-sorted-arrays.py",
-                "scores": {
-                    "time": 0.0,
-                    "timePercentile": 0.0,
-                    "memory": 0.0,
-                    "memoryPercentile": 0.0
-                }
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 0.0,
+                        "timePercentile": 0.0,
+                        "memory": 0.0,
+                        "memoryPercentile": 0.0
+                    }
+                ]
             }
         ]
     }
