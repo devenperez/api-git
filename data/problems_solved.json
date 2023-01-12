@@ -1,11 +1,11 @@
 {
-    "timeGathered": 1673105298545,
+    "timeGathered": 1673488981132,
     "solvedProblems": {
         "solvedTotals": {
-            "all": 38,
-            "easy": 19,
-            "medium": 18,
-            "hard": 1
+            "all": 42,
+            "easy": 20,
+            "medium": 19,
+            "hard": 3
         },
         "problems": [
             {
@@ -24,6 +24,21 @@
                 ]
             },
             {
+                "number": "4",
+                "name": "Median Of Two Sorted Arrays",
+                "difficulty": "Hard",
+                "location": "4-median-of-two-sorted-arrays/4-median-of-two-sorted-arrays.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 65.0,
+                        "timePercentile": 94.75,
+                        "memory": 13.6,
+                        "memoryPercentile": 78.18
+                    }
+                ]
+            },
+            {
                 "number": "7",
                 "name": "Reverse Integer",
                 "difficulty": "Medium",
@@ -35,6 +50,21 @@
                         "timePercentile": 83.27,
                         "memory": 13.2,
                         "memoryPercentile": 88.06
+                    }
+                ]
+            },
+            {
+                "number": "100",
+                "name": "Same Tree",
+                "difficulty": "Easy",
+                "location": "100-same-tree/100-same-tree.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 28.0,
+                        "timePercentile": 93.78,
+                        "memory": 13.8,
+                        "memoryPercentile": 72.95
                     }
                 ]
             },
@@ -65,6 +95,21 @@
                         "timePercentile": 83.79,
                         "memory": 13.5,
                         "memoryPercentile": 81.46
+                    }
+                ]
+            },
+            {
+                "number": "2",
+                "name": "Add Two Numbers",
+                "difficulty": "Medium",
+                "location": "2-add-two-numbers/2-add-two-numbers.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 59.0,
+                        "timePercentile": 71.66,
+                        "memory": 13.3,
+                        "memoryPercentile": 91.81
                     }
                 ]
             },
@@ -114,6 +159,21 @@
                 ]
             },
             {
+                "number": "28",
+                "name": "Find The Index Of The First Occurrence In A String",
+                "difficulty": "Medium",
+                "location": "28-find-the-index-of-the-first-occurrence-in-a-string/28-find-the-index-of-the-first-occurrence-in-a-string.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 17.0,
+                        "timePercentile": 82.26,
+                        "memory": 13.4,
+                        "memoryPercentile": 65.37
+                    }
+                ]
+            },
+            {
                 "number": "58",
                 "name": "Length Of Last Word",
                 "difficulty": "Easy",
@@ -125,6 +185,21 @@
                         "timePercentile": 70.89,
                         "memory": 13.5,
                         "memoryPercentile": 75.98
+                    }
+                ]
+            },
+            {
+                "number": "144",
+                "name": "Binary Tree Preorder Traversal",
+                "difficulty": "Easy",
+                "location": "144-binary-tree-preorder-traversal/144-binary-tree-preorder-traversal.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 32.0,
+                        "timePercentile": 84.16,
+                        "memory": 13.9,
+                        "memoryPercentile": 56.74
                     }
                 ]
             },
@@ -249,6 +324,21 @@
                 ]
             },
             {
+                "number": "36",
+                "name": "Valid Sudoku",
+                "difficulty": "Medium",
+                "location": "36-valid-sudoku/36-valid-sudoku.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 69.0,
+                        "timePercentile": 94.0,
+                        "memory": 13.7,
+                        "memoryPercentile": 9.12
+                    }
+                ]
+            },
+            {
                 "number": "8",
                 "name": "String To Integer Atoi",
                 "difficulty": "Medium",
@@ -260,6 +350,21 @@
                         "timePercentile": 78.59,
                         "memory": 13.7,
                         "memoryPercentile": 23.24
+                    }
+                ]
+            },
+            {
+                "number": "19",
+                "name": "Remove Nth Node From End Of List",
+                "difficulty": "Medium",
+                "location": "19-remove-nth-node-from-end-of-list/19-remove-nth-node-from-end-of-list.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 29.0,
+                        "timePercentile": 53.66,
+                        "memory": 13.4,
+                        "memoryPercentile": 46.16
                     }
                 ]
             },
@@ -324,6 +429,36 @@
                 ]
             },
             {
+                "number": "149",
+                "name": "Max Points On A Line",
+                "difficulty": "Hard",
+                "location": "149-max-points-on-a-line/149-max-points-on-a-line.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 172.0,
+                        "timePercentile": 57.56,
+                        "memory": 25.3,
+                        "memoryPercentile": 28.99
+                    }
+                ]
+            },
+            {
+                "number": "10",
+                "name": "Regular Expression Matching",
+                "difficulty": "Hard",
+                "location": "10-regular-expression-matching/10-regular-expression-matching.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 1054.0,
+                        "timePercentile": 28.24,
+                        "memory": 13.9,
+                        "memoryPercentile": 55.17
+                    }
+                ]
+            },
+            {
                 "number": "66",
                 "name": "Plus One",
                 "difficulty": "Easy",
@@ -369,6 +504,21 @@
                 ]
             },
             {
+                "number": "206",
+                "name": "Reverse Linked List",
+                "difficulty": "Easy",
+                "location": "206-reverse-linked-list/206-reverse-linked-list.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 33.0,
+                        "timePercentile": 55.53,
+                        "memory": 16.8,
+                        "memoryPercentile": 22.5
+                    }
+                ]
+            },
+            {
                 "number": "1480",
                 "name": "Running Sum Of 1D Array",
                 "difficulty": "Easy",
@@ -380,6 +530,21 @@
                         "timePercentile": 16.14,
                         "memory": 13.6,
                         "memoryPercentile": 61.59
+                    }
+                ]
+            },
+            {
+                "number": "141",
+                "name": "Linked List Cycle",
+                "difficulty": "Easy",
+                "location": "141-linked-list-cycle/141-linked-list-cycle.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 56.0,
+                        "timePercentile": 60.19,
+                        "memory": 21.4,
+                        "memoryPercentile": 5.54
                     }
                 ]
             },
@@ -459,81 +624,6 @@
                 ]
             },
             {
-                "number": "141",
-                "name": "Linked List Cycle",
-                "difficulty": "Easy",
-                "location": "141-linked-list-cycle/141-linked-list-cycle.py",
-                "languagesSolved": [
-                    {
-                        "lang": "py",
-                        "time": 0.0,
-                        "timePercentile": 0.0,
-                        "memory": 0.0,
-                        "memoryPercentile": 0.0
-                    }
-                ]
-            },
-            {
-                "number": "19",
-                "name": "Remove Nth Node From End Of List",
-                "difficulty": "Medium",
-                "location": "19-remove-nth-node-from-end-of-list/19-remove-nth-node-from-end-of-list.py",
-                "languagesSolved": [
-                    {
-                        "lang": "py",
-                        "time": 0.0,
-                        "timePercentile": 0.0,
-                        "memory": 0.0,
-                        "memoryPercentile": 0.0
-                    }
-                ]
-            },
-            {
-                "number": "2",
-                "name": "Add Two Numbers",
-                "difficulty": "Medium",
-                "location": "2-add-two-numbers/2-add-two-numbers.py",
-                "languagesSolved": [
-                    {
-                        "lang": "py",
-                        "time": 0.0,
-                        "timePercentile": 0.0,
-                        "memory": 0.0,
-                        "memoryPercentile": 0.0
-                    }
-                ]
-            },
-            {
-                "number": "206",
-                "name": "Reverse Linked List",
-                "difficulty": "Easy",
-                "location": "206-reverse-linked-list/206-reverse-linked-list.py",
-                "languagesSolved": [
-                    {
-                        "lang": "py",
-                        "time": 0.0,
-                        "timePercentile": 0.0,
-                        "memory": 0.0,
-                        "memoryPercentile": 0.0
-                    }
-                ]
-            },
-            {
-                "number": "28",
-                "name": "Implement Strstr",
-                "difficulty": "Easy",
-                "location": "28-implement-strstr/28-implement-strstr.py",
-                "languagesSolved": [
-                    {
-                        "lang": "py",
-                        "time": 0.0,
-                        "timePercentile": 0.0,
-                        "memory": 0.0,
-                        "memoryPercentile": 0.0
-                    }
-                ]
-            },
-            {
                 "number": "3",
                 "name": "Longest Substring Without Repeating Characters",
                 "difficulty": "Medium",
@@ -541,40 +631,10 @@
                 "languagesSolved": [
                     {
                         "lang": "py",
-                        "time": 0.0,
-                        "timePercentile": 0.0,
-                        "memory": 0.0,
-                        "memoryPercentile": 0.0
-                    }
-                ]
-            },
-            {
-                "number": "36",
-                "name": "Valid Sudoku",
-                "difficulty": "Medium",
-                "location": "36-valid-sudoku/36-valid-sudoku.py",
-                "languagesSolved": [
-                    {
-                        "lang": "py",
-                        "time": 0.0,
-                        "timePercentile": 0.0,
-                        "memory": 0.0,
-                        "memoryPercentile": 0.0
-                    }
-                ]
-            },
-            {
-                "number": "4",
-                "name": "Median Of Two Sorted Arrays",
-                "difficulty": "Hard",
-                "location": "4-median-of-two-sorted-arrays/4-median-of-two-sorted-arrays.py",
-                "languagesSolved": [
-                    {
-                        "lang": "py",
-                        "time": 0.0,
-                        "timePercentile": 0.0,
-                        "memory": 0.0,
-                        "memoryPercentile": 0.0
+                        "time": 3545.0,
+                        "timePercentile": 7.38,
+                        "memory": 15.6,
+                        "memoryPercentile": 5.51
                     }
                 ]
             }
