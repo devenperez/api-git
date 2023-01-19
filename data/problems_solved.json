@@ -1,5 +1,5 @@
 {
-    "timeGathered": 1674099459462,
+    "timeGathered": 1674099522362,
     "solvedProblems": {
         "solvedTotals": {
             "all": 50,
@@ -20,36 +20,6 @@
                         "timePercentile": 93.95,
                         "memory": 13.9,
                         "memoryPercentile": 97.39
-                    }
-                ]
-            },
-            {
-                "number": "4",
-                "name": "Median Of Two Sorted Arrays",
-                "difficulty": "Hard",
-                "location": "4-median-of-two-sorted-arrays/4-median-of-two-sorted-arrays.py",
-                "languagesSolved": [
-                    {
-                        "lang": "py",
-                        "time": 65.0,
-                        "timePercentile": 94.75,
-                        "memory": 13.6,
-                        "memoryPercentile": 78.18
-                    }
-                ]
-            },
-            {
-                "number": "7",
-                "name": "Reverse Integer",
-                "difficulty": "Medium",
-                "location": "7-reverse-integer/7-reverse-integer.py",
-                "languagesSolved": [
-                    {
-                        "lang": "py",
-                        "time": 22.0,
-                        "timePercentile": 83.27,
-                        "memory": 13.2,
-                        "memoryPercentile": 88.06
                     }
                 ]
             },
@@ -99,92 +69,32 @@
                 ]
             },
             {
-                "number": "2",
-                "name": "Add Two Numbers",
-                "difficulty": "Medium",
-                "location": "2-add-two-numbers/2-add-two-numbers.py",
-                "languagesSolved": [
-                    {
-                        "lang": "py",
-                        "time": 59.0,
-                        "timePercentile": 71.66,
-                        "memory": 13.3,
-                        "memoryPercentile": 91.81
-                    }
-                ]
-            },
-            {
-                "number": "134",
-                "name": "Gas Station",
-                "difficulty": "Medium",
-                "location": "134-gas-station/134-gas-station.py",
-                "languagesSolved": [
-                    {
-                        "lang": "py",
-                        "time": 722.0,
-                        "timePercentile": 72.46,
-                        "memory": 19.0,
-                        "memoryPercentile": 90.27
-                    }
-                ]
-            },
-            {
-                "number": "56",
-                "name": "Merge Intervals",
-                "difficulty": "Medium",
-                "location": "56-merge-intervals/56-merge-intervals.py",
-                "languagesSolved": [
-                    {
-                        "lang": "py",
-                        "time": 161.0,
-                        "timePercentile": 61.12,
-                        "memory": 18.0,
-                        "memoryPercentile": 96.55
-                    }
-                ]
-            },
-            {
-                "number": "22",
-                "name": "Generate Parentheses",
-                "difficulty": "Medium",
-                "location": "22-generate-parentheses/22-generate-parentheses.py",
-                "languagesSolved": [
-                    {
-                        "lang": "py",
-                        "time": 21.0,
-                        "timePercentile": 89.04,
-                        "memory": 13.7,
-                        "memoryPercentile": 67.89
-                    }
-                ]
-            },
-            {
-                "number": "1028",
-                "name": "Recover A Tree From Preorder Traversal",
+                "number": "4",
+                "name": "Median Of Two Sorted Arrays",
                 "difficulty": "Hard",
-                "location": "1028-recover-a-tree-from-preorder-traversal/1028-recover-a-tree-from-preorder-traversal.py",
+                "location": "4-median-of-two-sorted-arrays/4-median-of-two-sorted-arrays.py",
                 "languagesSolved": [
                     {
                         "lang": "py",
-                        "time": 117.0,
-                        "timePercentile": 48.02,
-                        "memory": 14.6,
-                        "memoryPercentile": 88.89
+                        "time": 65.0,
+                        "timePercentile": 94.75,
+                        "memory": 13.6,
+                        "memoryPercentile": 78.18
                     }
                 ]
             },
             {
-                "number": "28",
-                "name": "Find The Index Of The First Occurrence In A String",
+                "number": "7",
+                "name": "Reverse Integer",
                 "difficulty": "Medium",
-                "location": "28-find-the-index-of-the-first-occurrence-in-a-string/28-find-the-index-of-the-first-occurrence-in-a-string.py",
+                "location": "7-reverse-integer/7-reverse-integer.py",
                 "languagesSolved": [
                     {
                         "lang": "py",
-                        "time": 17.0,
-                        "timePercentile": 82.26,
-                        "memory": 13.4,
-                        "memoryPercentile": 65.37
+                        "time": 22.0,
+                        "timePercentile": 83.27,
+                        "memory": 13.2,
+                        "memoryPercentile": 88.06
                     }
                 ]
             },
@@ -249,32 +159,77 @@
                 ]
             },
             {
-                "number": "34",
-                "name": "Find First And Last Position Of Element In Sorted Array",
+                "number": "2",
+                "name": "Add Two Numbers",
                 "difficulty": "Medium",
-                "location": "34-find-first-and-last-position-of-element-in-sorted-array/34-find-first-and-last-position-of-element-in-sorted-array.py",
+                "location": "2-add-two-numbers/2-add-two-numbers.py",
                 "languagesSolved": [
                     {
                         "lang": "py",
-                        "time": 70.0,
-                        "timePercentile": 71.3,
-                        "memory": 14.6,
-                        "memoryPercentile": 65.8
+                        "time": 59.0,
+                        "timePercentile": 71.66,
+                        "memory": 13.3,
+                        "memoryPercentile": 91.81
                     }
                 ]
             },
             {
-                "number": "1302",
-                "name": "Deepest Leaves Sum",
+                "number": "134",
+                "name": "Gas Station",
                 "difficulty": "Medium",
-                "location": "1302-deepest-leaves-sum/1302-deepest-leaves-sum.py",
+                "location": "134-gas-station/134-gas-station.py",
                 "languagesSolved": [
                     {
                         "lang": "py",
-                        "time": 406.0,
-                        "timePercentile": 31.53,
-                        "memory": 20.7,
-                        "memoryPercentile": 96.88
+                        "time": 722.0,
+                        "timePercentile": 72.46,
+                        "memory": 19.0,
+                        "memoryPercentile": 90.27
+                    }
+                ]
+            },
+            {
+                "number": "56",
+                "name": "Merge Intervals",
+                "difficulty": "Medium",
+                "location": "56-merge-intervals/56-merge-intervals.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 161.0,
+                        "timePercentile": 61.12,
+                        "memory": 18.0,
+                        "memoryPercentile": 96.55
+                    }
+                ]
+            },
+            {
+                "number": "22",
+                "name": "Generate Parentheses",
+                "difficulty": "Medium",
+                "location": "22-generate-parentheses/22-generate-parentheses.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 21.0,
+                        "timePercentile": 89.04,
+                        "memory": 13.7,
+                        "memoryPercentile": 67.89
+                    }
+                ]
+            },
+            {
+                "number": "28",
+                "name": "Find The Index Of The First Occurrence In A String",
+                "difficulty": "Medium",
+                "location": "28-find-the-index-of-the-first-occurrence-in-a-string/28-find-the-index-of-the-first-occurrence-in-a-string.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 17.0,
+                        "timePercentile": 82.26,
+                        "memory": 13.4,
+                        "memoryPercentile": 65.37
                     }
                 ]
             },
@@ -290,6 +245,111 @@
                         "timePercentile": 70.89,
                         "memory": 13.5,
                         "memoryPercentile": 75.98
+                    }
+                ]
+            },
+            {
+                "number": "144",
+                "name": "Binary Tree Preorder Traversal",
+                "difficulty": "Easy",
+                "location": "144-binary-tree-preorder-traversal/144-binary-tree-preorder-traversal.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 32.0,
+                        "timePercentile": 84.16,
+                        "memory": 13.9,
+                        "memoryPercentile": 56.74
+                    }
+                ]
+            },
+            {
+                "number": "1470",
+                "name": "Shuffle The Array",
+                "difficulty": "Easy",
+                "location": "1470-shuffle-the-array/1470-shuffle-the-array.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 72.0,
+                        "timePercentile": 51.22,
+                        "memory": 14.0,
+                        "memoryPercentile": 88.3
+                    }
+                ]
+            },
+            {
+                "number": "34",
+                "name": "Find First And Last Position Of Element In Sorted Array",
+                "difficulty": "Medium",
+                "location": "34-find-first-and-last-position-of-element-in-sorted-array/34-find-first-and-last-position-of-element-in-sorted-array.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 70.0,
+                        "timePercentile": 71.3,
+                        "memory": 14.6,
+                        "memoryPercentile": 65.8
+                    }
+                ]
+            },
+            {
+                "number": "1028",
+                "name": "Recover A Tree From Preorder Traversal",
+                "difficulty": "Hard",
+                "location": "1028-recover-a-tree-from-preorder-traversal/1028-recover-a-tree-from-preorder-traversal.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 117.0,
+                        "timePercentile": 48.02,
+                        "memory": 14.6,
+                        "memoryPercentile": 88.89
+                    }
+                ]
+            },
+            {
+                "number": "14",
+                "name": "Longest Common Prefix",
+                "difficulty": "Easy",
+                "location": "14-longest-common-prefix/14-longest-common-prefix.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 40.0,
+                        "timePercentile": 45.85,
+                        "memory": 13.6,
+                        "memoryPercentile": 85.54
+                    }
+                ]
+            },
+            {
+                "number": "1920",
+                "name": "Build Array From Permutation",
+                "difficulty": "Easy",
+                "location": "1920-build-array-from-permutation/1920-build-array-from-permutation.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 87.0,
+                        "timePercentile": 96.31,
+                        "memory": 13.8,
+                        "memoryPercentile": 32.79
+                    }
+                ]
+            },
+            {
+                "number": "1302",
+                "name": "Deepest Leaves Sum",
+                "difficulty": "Medium",
+                "location": "1302-deepest-leaves-sum/1302-deepest-leaves-sum.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 406.0,
+                        "timePercentile": 31.53,
+                        "memory": 20.7,
+                        "memoryPercentile": 96.88
                     }
                 ]
             },
@@ -339,62 +399,17 @@
                 ]
             },
             {
-                "number": "144",
-                "name": "Binary Tree Preorder Traversal",
+                "number": "1",
+                "name": "Two Sum",
                 "difficulty": "Easy",
-                "location": "144-binary-tree-preorder-traversal/144-binary-tree-preorder-traversal.py",
+                "location": "1-two-sum/1-two-sum.py",
                 "languagesSolved": [
                     {
                         "lang": "py",
-                        "time": 32.0,
-                        "timePercentile": 84.16,
-                        "memory": 13.9,
-                        "memoryPercentile": 56.74
-                    }
-                ]
-            },
-            {
-                "number": "1470",
-                "name": "Shuffle The Array",
-                "difficulty": "Easy",
-                "location": "1470-shuffle-the-array/1470-shuffle-the-array.py",
-                "languagesSolved": [
-                    {
-                        "lang": "py",
-                        "time": 72.0,
-                        "timePercentile": 51.22,
-                        "memory": 14.0,
-                        "memoryPercentile": 88.3
-                    }
-                ]
-            },
-            {
-                "number": "14",
-                "name": "Longest Common Prefix",
-                "difficulty": "Easy",
-                "location": "14-longest-common-prefix/14-longest-common-prefix.py",
-                "languagesSolved": [
-                    {
-                        "lang": "py",
-                        "time": 40.0,
-                        "timePercentile": 45.85,
-                        "memory": 13.6,
-                        "memoryPercentile": 85.54
-                    }
-                ]
-            },
-            {
-                "number": "1920",
-                "name": "Build Array From Permutation",
-                "difficulty": "Easy",
-                "location": "1920-build-array-from-permutation/1920-build-array-from-permutation.py",
-                "languagesSolved": [
-                    {
-                        "lang": "py",
-                        "time": 87.0,
-                        "timePercentile": 96.31,
-                        "memory": 13.8,
-                        "memoryPercentile": 32.79
+                        "time": 2601.0,
+                        "timePercentile": 35.95,
+                        "memory": 14.2,
+                        "memoryPercentile": 68.06
                     }
                 ]
             },
@@ -444,6 +459,21 @@
                 ]
             },
             {
+                "number": "21",
+                "name": "Merge Two Sorted Lists",
+                "difficulty": "Easy",
+                "location": "21-merge-two-sorted-lists/21-merge-two-sorted-lists.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 32.0,
+                        "timePercentile": 66.96,
+                        "memory": 13.6,
+                        "memoryPercentile": 32.27
+                    }
+                ]
+            },
+            {
                 "number": "1476",
                 "name": "Subrectangle Queries",
                 "difficulty": "Medium",
@@ -459,17 +489,17 @@
                 ]
             },
             {
-                "number": "149",
-                "name": "Max Points On A Line",
-                "difficulty": "Hard",
-                "location": "149-max-points-on-a-line/149-max-points-on-a-line.py",
+                "number": "2469",
+                "name": "Convert The Temperature",
+                "difficulty": "Easy",
+                "location": "2469-convert-the-temperature/2469-convert-the-temperature.py",
                 "languagesSolved": [
                     {
                         "lang": "py",
-                        "time": 172.0,
-                        "timePercentile": 57.56,
-                        "memory": 25.3,
-                        "memoryPercentile": 28.99
+                        "time": 54.0,
+                        "timePercentile": 43.35,
+                        "memory": 13.9,
+                        "memoryPercentile": 49.78
                     }
                 ]
             },
@@ -489,6 +519,21 @@
                 ]
             },
             {
+                "number": "149",
+                "name": "Max Points On A Line",
+                "difficulty": "Hard",
+                "location": "149-max-points-on-a-line/149-max-points-on-a-line.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 172.0,
+                        "timePercentile": 57.56,
+                        "memory": 25.3,
+                        "memoryPercentile": 28.99
+                    }
+                ]
+            },
+            {
                 "number": "10",
                 "name": "Regular Expression Matching",
                 "difficulty": "Hard",
@@ -500,51 +545,6 @@
                         "timePercentile": 28.24,
                         "memory": 13.9,
                         "memoryPercentile": 55.17
-                    }
-                ]
-            },
-            {
-                "number": "1",
-                "name": "Two Sum",
-                "difficulty": "Easy",
-                "location": "1-two-sum/1-two-sum.py",
-                "languagesSolved": [
-                    {
-                        "lang": "py",
-                        "time": 2601.0,
-                        "timePercentile": 35.95,
-                        "memory": 14.2,
-                        "memoryPercentile": 68.06
-                    }
-                ]
-            },
-            {
-                "number": "21",
-                "name": "Merge Two Sorted Lists",
-                "difficulty": "Easy",
-                "location": "21-merge-two-sorted-lists/21-merge-two-sorted-lists.py",
-                "languagesSolved": [
-                    {
-                        "lang": "py",
-                        "time": 32.0,
-                        "timePercentile": 66.96,
-                        "memory": 13.6,
-                        "memoryPercentile": 32.27
-                    }
-                ]
-            },
-            {
-                "number": "2469",
-                "name": "Convert The Temperature",
-                "difficulty": "Easy",
-                "location": "2469-convert-the-temperature/2469-convert-the-temperature.py",
-                "languagesSolved": [
-                    {
-                        "lang": "py",
-                        "time": 54.0,
-                        "timePercentile": 43.35,
-                        "memory": 13.9,
-                        "memoryPercentile": 49.78
                     }
                 ]
             },
@@ -669,6 +669,21 @@
                 ]
             },
             {
+                "number": "9",
+                "name": "Palindrome Number",
+                "difficulty": "Easy",
+                "location": "9-palindrome-number/9-palindrome-number.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 93.0,
+                        "timePercentile": 46.3,
+                        "memory": 13.5,
+                        "memoryPercentile": 11.6
+                    }
+                ]
+            },
+            {
                 "number": "1689",
                 "name": "Partitioning Into Minimum Number Of Deci Binary Numbers",
                 "difficulty": "Medium",
@@ -680,6 +695,21 @@
                         "timePercentile": 16.55,
                         "memory": 14.6,
                         "memoryPercentile": 35.56
+                    }
+                ]
+            },
+            {
+                "number": "1929",
+                "name": "Concatenation Of Array",
+                "difficulty": "Easy",
+                "location": "1929-concatenation-of-array/1929-concatenation-of-array.py",
+                "languagesSolved": [
+                    {
+                        "lang": "py",
+                        "time": 185.0,
+                        "timePercentile": 5.25,
+                        "memory": 13.7,
+                        "memoryPercentile": 46.34
                     }
                 ]
             },
@@ -699,21 +729,6 @@
                 ]
             },
             {
-                "number": "9",
-                "name": "Palindrome Number",
-                "difficulty": "Easy",
-                "location": "9-palindrome-number/9-palindrome-number.py",
-                "languagesSolved": [
-                    {
-                        "lang": "py",
-                        "time": 93.0,
-                        "timePercentile": 46.3,
-                        "memory": 13.5,
-                        "memoryPercentile": 11.6
-                    }
-                ]
-            },
-            {
                 "number": "23",
                 "name": "Merge K Sorted Lists",
                 "difficulty": "Hard",
@@ -725,21 +740,6 @@
                         "timePercentile": 12.36,
                         "memory": 18.2,
                         "memoryPercentile": 33.96
-                    }
-                ]
-            },
-            {
-                "number": "1929",
-                "name": "Concatenation Of Array",
-                "difficulty": "Easy",
-                "location": "1929-concatenation-of-array/1929-concatenation-of-array.py",
-                "languagesSolved": [
-                    {
-                        "lang": "py",
-                        "time": 185.0,
-                        "timePercentile": 5.25,
-                        "memory": 13.7,
-                        "memoryPercentile": 46.34
                     }
                 ]
             },
