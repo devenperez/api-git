@@ -1,0 +1,40 @@
+{
+    "version": 3,
+    "timeGathered": 1683597129634,
+    "language": "c",
+    "problems": [
+        {
+            "number": "1",
+            "name": "Two Sum",
+            "difficulty": "Easy",
+            "location": "1-two-sum/1-two-sum.py",
+            "lang": "py",
+            "time": 2601.0,
+            "timePercentile": 35.95,
+            "memory": 14.2,
+            "memoryPercentile": 68.06
+        },
+        {
+            "number": "31",
+            "name": "Next Permutation",
+            "difficulty": "Medium",
+            "location": "31-next-permutation/31-next-permutation.c",
+            "lang": "c",
+            "time": 0.0,
+            "timePercentile": 100.0,
+            "memory": 6.2,
+            "memoryPercentile": 46.95
+        },
+        {
+            "number": "141",
+            "name": "Linked List Cycle",
+            "difficulty": "Easy",
+            "location": "141-linked-list-cycle/141-linked-list-cycle.py",
+            "lang": "c",
+            "time": 254.0,
+            "timePercentile": 5.13,
+            "memory": 8.1,
+            "memoryPercentile": 25.73
+        }
+    ]
+}

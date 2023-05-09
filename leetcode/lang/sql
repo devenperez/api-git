@@ -1,0 +1,150 @@
+{
+    "version": 3,
+    "timeGathered": 1683597129634,
+    "language": "sql",
+    "problems": [
+        {
+            "number": "197",
+            "name": "Rising Temperature",
+            "difficulty": "Easy",
+            "location": "197-rising-temperature/197-rising-temperature.sql",
+            "lang": "sql",
+            "time": 714.0,
+            "timePercentile": 79.82,
+            "memory": 0.0,
+            "memoryPercentile": 100.0
+        },
+        {
+            "number": "584",
+            "name": "Find Customer Referee",
+            "difficulty": "Easy",
+            "location": "584-find-customer-referee/584-find-customer-referee.sql",
+            "lang": "sql",
+            "time": 512.0,
+            "timePercentile": 75.41,
+            "memory": 0.0,
+            "memoryPercentile": 100.0
+        },
+        {
+            "number": "1873",
+            "name": "Calculate Special Bonus",
+            "difficulty": "Easy",
+            "location": "1873-calculate-special-bonus/1873-calculate-special-bonus.sql",
+            "lang": "sql",
+            "time": 1212.0,
+            "timePercentile": 42.95,
+            "memory": 0.0,
+            "memoryPercentile": 100.0
+        },
+        {
+            "number": "511",
+            "name": "Game Play Analysis I",
+            "difficulty": "Easy",
+            "location": "511-game-play-analysis-i/511-game-play-analysis-i.sql",
+            "lang": "sql",
+            "time": 964.0,
+            "timePercentile": 31.19,
+            "memory": 0.0,
+            "memoryPercentile": 100.0
+        },
+        {
+            "number": "176",
+            "name": "Second Highest Salary",
+            "difficulty": "Medium",
+            "location": "176-second-highest-salary/176-second-highest-salary.sql",
+            "lang": "sql",
+            "time": 422.0,
+            "timePercentile": 26.04,
+            "memory": 0.0,
+            "memoryPercentile": 100.0
+        },
+        {
+            "number": "181",
+            "name": "Employees Earning More Than Their Managers",
+            "difficulty": "Easy",
+            "location": "181-employees-earning-more-than-their-managers/181-employees-earning-more-than-their-managers.sql",
+            "lang": "sql",
+            "time": 854.0,
+            "timePercentile": 21.89,
+            "memory": 0.0,
+            "memoryPercentile": 100.0
+        },
+        {
+            "number": "586",
+            "name": "Customer Placing The Largest Number Of Orders",
+            "difficulty": "Easy",
+            "location": "586-customer-placing-the-largest-number-of-orders/586-customer-placing-the-largest-number-of-orders.sql",
+            "lang": "sql",
+            "time": 977.0,
+            "timePercentile": 16.81,
+            "memory": 0.0,
+            "memoryPercentile": 100.0
+        },
+        {
+            "number": "1741",
+            "name": "Find Total Time Spent By Each Employee",
+            "difficulty": "Easy",
+            "location": "1741-find-total-time-spent-by-each-employee/1741-find-total-time-spent-by-each-employee.sql",
+            "lang": "sql",
+            "time": 1143.0,
+            "timePercentile": 13.87,
+            "memory": 0.0,
+            "memoryPercentile": 100.0
+        },
+        {
+            "number": "175",
+            "name": "Combine Two Tables",
+            "difficulty": "Easy",
+            "location": "175-combine-two-tables/175-combine-two-tables.sql",
+            "lang": "sql",
+            "time": 860.0,
+            "timePercentile": 13.3,
+            "memory": 0.0,
+            "memoryPercentile": 100.0
+        },
+        {
+            "number": "182",
+            "name": "Duplicate Emails",
+            "difficulty": "Easy",
+            "location": "182-duplicate-emails/182-duplicate-emails.sql",
+            "lang": "sql",
+            "time": 813.0,
+            "timePercentile": 12.3,
+            "memory": 0.0,
+            "memoryPercentile": 100.0
+        },
+        {
+            "number": "183",
+            "name": "Customers Who Never Order",
+            "difficulty": "Easy",
+            "location": "183-customers-who-never-order/183-customers-who-never-order.sql",
+            "lang": "sql",
+            "time": 1102.0,
+            "timePercentile": 11.58,
+            "memory": 0.0,
+            "memoryPercentile": 100.0
+        },
+        {
+            "number": "596",
+            "name": "Classes More Than 5 Students",
+            "difficulty": "Easy",
+            "location": "596-classes-more-than-5-students/596-classes-more-than-5-students.sql",
+            "lang": "sql",
+            "time": 769.0,
+            "timePercentile": 6.19,
+            "memory": 0.0,
+            "memoryPercentile": 100.0
+        },
+        {
+            "number": "595",
+            "name": "Big Countries",
+            "difficulty": "Easy",
+            "location": "595-big-countries/595-big-countries.sql",
+            "lang": "sql",
+            "time": 675.0,
+            "timePercentile": 5.02,
+            "memory": 0.0,
+            "memoryPercentile": 100.0
+        }
+    ]
+}

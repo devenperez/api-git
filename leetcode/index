@@ -1,0 +1,27 @@
+{
+    "version": 3,
+    "timeGathered": 1683597129634,
+    "solvedTotals": {
+        "all": 79,
+        "easy": 49,
+        "medium": 25,
+        "hard": 5
+    },
+    "languages": [
+        {
+            "lang": "Python",
+            "extension": "py",
+            "endpoint": "/lang/py"
+        },
+        {
+            "lang": "C",
+            "extension": "c",
+            "endpoint": "/lang/c"
+        },
+        {
+            "lang": "SQL",
+            "extension": "sql",
+            "endpoint": "/lang/sql"
+        }
+    ]
+}
